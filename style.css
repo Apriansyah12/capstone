@@ -1,0 +1,39 @@
+
+[data-testid="stAppViewContainer"] > .main{
+        background-image: url("https://www.srikotamedical.com/wp-content/uploads/2021/08/Ct-Scan-2.jpg");
+        background-size: 1600px 750px;
+}
+#MainMenu{visibility: hidden;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
+
+div.css-zt5igj.e16nr0p33{
+        background-size: 100% ;
+        top: 0px;
+        height: 75px;
+        position: fixed;
+        background: rgba(209, 209, 209, 0.42);
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 48px;
+        text-align: center;
+        color: black;
+}
+button.css-5uatcg.edgvbvh10{
+        position: absolute;
+        width: 358px;
+        height: 42px;
+        top: 85px;
+        right: 145px;
+        color: black;
+        background: #FFFFFF;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+}
+
